@@ -27,7 +27,7 @@
     "check": "npm run check:project && npm run build && npm run check:dist"
   },
   "dependencies": {
-    "three": "^0.165.0"
+    "three": "^0.185.1"
   },
   "devDependencies": {
     "vite": "^6.4.3"
